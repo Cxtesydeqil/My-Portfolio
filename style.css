@@ -1,0 +1,13 @@
+h1,h2 { 
+    color: rgb(151, 111, 111); text-align: center; font-family: 'Times New Roman', Times, serif;
+}
+h3 {
+    color: rgba(85, 74, 64, 0.808);
+font-size: 1.25em;
+}
+p { text-align: justify;
+    font-size: 1.05em;
+
+}
+
+h4 { }
