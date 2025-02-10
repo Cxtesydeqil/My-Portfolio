@@ -7,7 +7,7 @@ font-size: 1.25em;
 }
 p { text-align: justify;
     font-size: 1.05em;
-
 }
-
-h4 { }
+h4 { color: rgb(151, 112, 79);
+font-size: 1.25em;
+}
